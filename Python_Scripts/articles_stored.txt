@@ -1,0 +1,391 @@
+Articles on Diseases (stored)
+------------------------------
+- Proactive vs Reactive is the Successful Way to Garden
+
+- Fall Lawn Care Basics
+
+- Soil Test – Your First Step to Lawn and Garden Success
+
+- Shopping for Healthy Plants
+
+- Summer Turf Care for the Southeast
+
+- Camellia Petal Blight
+
+- What Is This?
+
+- Simple Ways to Reduce Garden Disease
+
+- Aster Yellows
+
+- Controlling Disease
+
+- Discovering the Dangers of Deicers
+
+- Supplement Natural Water Sources for Wildlife
+
+- The IPM Approach to Environmental Stewardship
+
+- Environmentally Friendly Fertilizers
+
+- Soil that is Alive…is Well
+
+- Why Your Garden May Not Be As Green As You Think
+
+- What is the ‘Greener’ Choice in Christmas Trees, Real vs. Artificial?
+
+- “Green” Your Garden Using Drought Tolerant Plants
+
+- Controlling Weeds Organically
+
+- Cisterns are Simply Rain Barrels on Steroids
+
+- Botanical Insecticides
+
+- Plant Division Made Easy
+
+- Fall is the Start of Next Year’s Gardening Season
+
+- Shopping for Healthy Plants
+
+- Annuals
+
+- Growing French Hydrangeas
+
+- Growing Roses May be Easier than you Think
+
+- Types of Perennials
+
+- Annuals and Perennials Defined
+
+- Poison Ivy, Oak and Sumac; Three Plants you Never want to Grow
+
+- Deadheading
+
+- Tips for Buying Annuals
+
+- Butterfly Habitat Essentials
+
+- Perennials in the Landscape
+
+- Add Color and Fragrance with Lilies
+
+- Starting Plants from Seed Adds to the Pleasure
+
+- Community Gardening Offers Many Benefits
+
+- Feed the Soil, Let the Soil Feed the Plants – The Heart of Organic Gardening
+
+- Nature’s Sponge; One More Reason to Love Compost in Times of Drought
+
+- Why an Eco-friendly Garden is Good for All
+
+- Organic Gardening Still Often Misunderstood
+
+- Plant Spring Flowering Bulbs in Fall for Best Results Next Season
+
+- Extending the Vegetable Gardening Season
+
+- Spring Vegetable Gardening
+
+- Small Space Gardening
+
+- Why to Love Bare Root Trees and Shrubs; and How to Plant Them
+
+- Why Leaves Change Color in the Fall
+
+- Over-wintering Non-hardy and Tropical Plants
+
+- Drip Irrigation: A Smart Way to Help Plants Survive Summer
+
+- Fall is the Best Time to Garden
+
+- Put Fall Leaves to Work to Improve Any Soil in 3 Simple Steps
+
+- What to Know About Mistletoe
+
+- The Pleasure of Gardening is in the Process
+
+- Putting the Garden to Bed
+
+- Steps to Creating Great Soil and a Healthy Garden
+=================================================================================================================
+=================================================================================================================
+
+Computing Articles
+------------------
+
+- Neuralink’s First User Is ‘Constantly Multitasking’ With His Brain Implant (Wired)
+
+- Tech Still Isn’t Doing Enough to Care for the Environment (wired)
+
+- Immersive Multi-Room Audio Comes Home (wired)
+
+- Exploring Binary Search Trees: Theory and Practical Implementation (dzone)
+
+- How to Iterate Over Multiple Lists Sequentially in Python (dzone)
+
+- Advancements in AI for Health Data Analysis (dzone)
+
+- How To Build Local LLM Apps With Ollama and SingleStore (dzone)
+
+- API Gateway vs. Load Balancer (dzone)
+
+- Optimizing the Traveling Salesman Problem: Integrating Graph Neural Networks With Branch and Bound Algorithms (dzone)
+
+- Practical Use Cases With Terraform in Network Automation (dzone)
+
+- Securing Generative AI Applications (dzone)
+
+- Cost Optimization Strategies for High-Volume Data Platforms (dzone)
+
+- Choosing the Right Stream Processing System: A Comprehensive Guide (dzone)
+
+- Is Data Lineage a Pain Killer or Vitamin? (dzone)
+
+- A Comprehensive Guide on Non-Regression Testing (dzone)
+
+- How To Make a Successful Deployment and Not Die Trying (dzone)
+
+- Harnessing AI to Revolutionize IT Service Management: Insights from ManageEngine's Director of AI Research (dzone)
+
+- Evolving Roles: Developers and AI in Coding (dzone)
+
+- How You Can Use Logs To Feed Security (dzone)
+
+- Monte Carlo Simulations at Scale: Stock Price Prediction (dzone)
+
+- Securing Development: Key Differences in Virtual Desktops, Enterprise Browsers and Cloud-Based Development (dzone)
+
+- Software Architectural Patterns (dzone)
+
+- 7 Unique Ways To Use AI Tools for Data Analytic (dzone)
+
+- The Ultimate Guide to Cost Management in Google Cloud (dzone)
+
+- An Introduction to Stream Processing (dzone)
+
+- When APIs Go Wrong: Neglecting Rate Limiting (dzone)
+
+- Sustainable Java Applications With Quick Warmup (dzone)
+
+- The Evolution of Platform Extensibility (dzone)
+
+- Harnessing the Power of AI in Compliance Automation: Insights from Shrav Mehta, Founder and CEO, Secureframe (dzone)
+
+- Rabbit’s AI Assistant Is Here. And Soon a Camera Wearable Will Be Too (wired)
+
+- /e/OS Is Better Than Android. You Should Try It (wired)
+
+- Indian Voters Are Being Bombarded With Millions of Deepfakes. Political Candidates Approve (wired)
+
+- Powerful antibiotic discovered using machine learning for first time (The Guardian)
+
+- Wearable tech: how the human body can help power the future of smart textiles (The Guardian)
+
+- Researchers build AI-driven sarcasm detector (The Guardian)
+
+- AI may accelerate job losses and carbon emissions, report finds (The Guardian)
+
+- Spam, junk … slop? The latest wave of AI behind the ‘zombie internet’ (The Guardian)
+
+- OpenAI putting ‘shiny products’ above safety, says departing researcher (The Guardian)
+
+- First companies sign up to AI safety standards on eve of Seoul summit (The Guardian)
+
+- Revealed: Meta approved political ads in India that incited violence (The Guardian)
+
+- Facebook and Instagram to label digitally altered content ‘made with AI’ (The Guardian)
+
+- China will use AI to disrupt elections in the US, South Korea and India, Microsoft warns (The Guardian)
+
+- Google restricts AI chatbot Gemini from answering questions on 2024 elections (The Guardian)
+
+- TechScape: On the internet, where does the line between person end and bot begin? (The Guardian)
+
+- Electric cars more likely to hit pedestrians than petrol vehicles, study finds (The Guardian)
+
+- US man used AI to generate 13,000 child sexual abuse pictures, FBI alleges (The Guardian)
+
+- AI chatbots’ safeguards can be easily bypassed, say UK researchers (The Guardian)
+
+- App developer Crowdaa raises €1.2M and plans a US expansion (techcrunch)
+
+- Spotify experiments with an AI DJ that speaks Spanish (techcrunch)
+
+- Google to build first subsea fiber-optic cable connecting Africa with Australia (techcrunch)
+
+- How To Reduce MTTR
+
+- Virtual reality games helping UK’s deaf children to understand speech
+
+- Michael Schumacher’s family win case against publisher over fake AI interview
+
+- Ethics in the Age of AI: The Human and Moral Impact of AI
+
+- Unveiling the Evolution and Future of Fine-Tuning Large Language Models
+
+- The Evolution of Conversational AI: From Chatbots to Coherent Conversations With GenAI and LLMs
+
+- Optimizing Cost and Performance in AWS EC2 Backup
+
+- TechScape: The people charged with making sure AI doesn’t destroy humanity have left the building
+
+- Productivity soars in sectors of global economy most exposed to AI, says report
+
+- People with commonly autocorrected names call for tech firms to fix problem
+
+- UK urges tech giants to do more to prevent spread of extremism
+
+- The Power of Generative AI: How It Is Revolutionizing Business Process Automation
+
+- Future of Software Development
+
+- Securing Applications Throughout the Software Development Lifecycle
+
+- Integration Security and Safety When Connecting With External Systems
+
+- Understanding Status Page Aggregation: Inside the Technology of a Typical Status Page Aggregator
+
+- Hybrid Cloud Backup: A Comprehensive Guide To Securing Your Data
+=================================================================================================================
+=================================================================================================================
+
+Physics Articles
+------------------
+
+- Science Made Simple: What Is Plasma? (SciTechDaily)
+
+- A Quantum Leap in Alloy Research: Machine Learning Speeds Up Diffusion Studies by 100x
+
+- Unlocking the Quantum Code: International Team Cracks a Long-Standing Physics Problem
+
+- Science Made Simple: What Are Electrons?
+
+- Beautiful and Charming: Physicists Discover a New Tetraquark
+
+- Electrons Stand Still As Scientists Rewrite Molecular Rules
+
+- Revolutionary Discovery: Scientists Prove Existence of New Type of Magnetism
+
+- Deciphering Physics: How MIT Uses AI to Answer the Unanswerable
+
+- Quantum Coherence: Harvard Scientists Uncover Hidden Order in Chemical Chaos
+
+- Beyond Hydrogen: Discovery of Tiny New Atom Tauonium With Massive Implications
+
+- Breaking Light Speed: The Quantum Tunneling Enigma
+
+- Breaking Barriers: World’s First Dual-Beamline Photoelectron Momentum Microscope Unveiled in Japan
+
+- A New Dimension of Quantum Materials: Topological Phonons Discovered in Crystal Lattices
+
+- Physicists Uncover Unusual New Quantum State Known As “Dirac Spin Liquid”
+
+- New Research Unravels the Mystery of Slow Electrons
+
+- Scientists Uncover Unique New 1D Superconducting State
+
+- Compact Laser Plasma Accelerator Breaks Proton Energy Record
+
+- Scientists Discover New Semiconductor Excitation Technique
+
+- Mastering Quantum Chaos: Innovative Cooling Method Stabilizes Quantum Experiments
+
+- Fusion’s Island Paradise: Mastering Plasma With Magnets and Microwaves
+
+- Quantum Entanglement Unmasked by Entanglement Witnesses
+
+- Magnetic Avalanche – Scientists Detect Quantum “Barkhausen Noise” for the First Time
+
+- Scientists Bring Star Matter Closer to Earth With Creation of 5 New Isotopes
+
+- Turning Quantum Noise Into a Teleportation Breakthrough
+
+- Physicists Develop Groundbreaking Device for Advanced Quantum Computing
+
+- Unprecedented Sound Waves – New Metamaterial Redefines Wave Amplification
+
+- New Particle? AI Detected Anomaly May Uncover Novel Physics Beyond the Standard Model
+
+- Advancing Atomic Clocks: Unlocking Precision With Quantum Superradiance
+
+- Scientists Propose New Way To Search for Dark Matter
+
+- Overcoming Atomic Recoil: Twisting and Binding Matter Waves With Photons
+
+- Inspired by Cheerios: Scientists Develop New More Efficient Way To Capture Fresh Water From the Air
+
+- Quantum Leap: How a New Experiment Could Solve Gravity’s Biggest Mystery
+
+- Over 1,000 Qubits Achieved – Physicists Set World Record for Atom-Based Quantum Computers
+
+- Revolutionizing Photonics: 2D Materials Manipulate Light With Remarkable Precision
+
+- Physicists Discover “Topological Hall Effect” in Two-Dimensional Quantum Magnets
+
+- Einstein Challenged: Exploring the “Cosmic Glitch” in Gravity
+
+- Unlocking the Secrets of the Electron Universe: Scientists Discover Path Beyond Ohm’s Law
+
+- Quantum Leap Into the Frequency Domain Unlocks New Possibilities
+
+- Quantum Tunneling Explained With 40-Year-Old Mathematical Discovery
+
+- Photons Frozen in Time by Innovative Crystal Designs
+
+- Turning Invisible Dark Matter Into Visible Light
+
+- Harnessing the Unseen: Revolutionizing Computing With Valleytronic
+
+- Quantum Breakthrough: Researchers Unlock New Realms in 1D Superconductivity
+
+- Scientists Uncover Surprising Reversal in Quantum Systems
+
+- An Everyday Scientific Mystery: New Study Reveals Universal Secrets of Granular Matter
+
+- Accidental Discovery Transforms Cork Into an Eco-Friendly Oil Sponge
+
+- Spintronics Breakthrough: Unlocking the Power of Radial Vortices
+
+- Light Waves Like Never Before: Scientists Unveil Groundbreaking Optical Quantum Detection
+
+- A Groundbreaking New Principle – Korean Researchers Uncover Revolutionary Phenomenon in Liquid Crystals
+
+- Field-Free Future: The Rise of Quantum Precision in Electronics
+
+- Quantum Resonators Break the Thermal Rule
+
+- Solid-State Qubits: Artificial Atoms Unlock Quantum Computing Breakthrough
+
+- The Next Einstein: New AI Can Develop New Theories of Physics
+
+- Strontium Unlocks the Quantum Secrets of Superconductivity
+
+- Plasmonics Breakthrough Unleashes New Era of Quantum Technologies
+
+- Ingenious New Method Measures the 3D Position of Individual Atoms
+
+- Quantum Revolution: Redefining Physics With Fractional Charges
+
+- Quantum Gravity Unveiled – Scientists Crack the Cosmic Code That Baffled Einstein
+
+- In Search of Muons: New Study Unveils Unexpected Behavior in Magnetic Oxides
+
+- Breaking Barriers in Quantum Research: Magnesium-Coated Tantalum Unveiled
+
+- Redefining Material Science: Scientists Have Induced Polarity in Metals
+
+- Quantum Leap in Ultrafast Electronics Secured by Graphene’s Atomic Armor
+
+- Quantum Leap in Superconductivity: Harvard’s High-Pressure Breakthrough
+
+- Scientists Demonstrate Effective Fusion “Spark Plug” in Groundbreaking Experiments
+
+- Scientists Discover Bizarre Material Where Electrons Stand Still
+
+- Unlocking the Quantum Secrets Hidden in Diamonds for Advanced Electronics
+
+- Freezing Positronium Atoms With Lasers To Unlock Secrets of Antimatter
+
+- Quantum Resurrection: High-Performance Niobium Superconducting Qubits
